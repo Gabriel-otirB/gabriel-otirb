@@ -3,8 +3,8 @@
 <div>
 
 - 👨🏾‍💻 Minha vocação é trabalhar como full-stack, pois isso me permite não apenas desenvolver soluções completas, mas também entender profundamente cada etapa do projeto.
-- 📚 Cursando: Análise e Desenvolvimento de Sistemas
-- 📚 Estudando Tecnologias: Typescript, Java Script, PHP, Java, Ethical Hacking
+- 📚 Cursando: Análise e Desenvolvimento de Sistemas.
+- 📚 Em constante aprendizado e aperfeiçoamento em: Typescript, Java Script, PHP, Java, Ethical Hacking.
   
 </div>
 
