@@ -8,9 +8,10 @@
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-otirb&show_icons=true&theme=radical) <span> ![mario-super-mario](https://github.com/user-attachments/assets/64cbff0e-92e5-4071-a2c1-b3ee0ed9cc9d)
- 
-## Tecnologias que uso:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-otirb&show_icons=true&theme=radical)
+<span style="display: inline;"><a href="http://gifgifs.com/" title="http://gifgifs.com"><img src="http://gifgifs.com//animations/anime/dragon-ball-z/Gohan/gohan_38.gif" border=0 alt="http://gifgifs.com" /></a><br/><a href="http://gifgifs.com/"></a></span>
+
+## Tecnologias com as quais trabalho:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="oti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
