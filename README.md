@@ -4,7 +4,7 @@
 
 - 👨🏾‍💻 Minha vocação é trabalhar como full-stack, pois isso me permite não apenas desenvolver soluções completas, mas também entender profundamente cada etapa do projeto.
 - 📚 Cursando: Análise e Desenvolvimento de Sistemas.
-- 📚 Em constante aprendizado e aperfeiçoamento em: Typescript, Java Script, PHP, Java, Ethical Hacking.
+- 📚 Em constante aprendizado e aperfeiçoamento em: Typescript, Java Script, PHP, Java, Python e Ethical Hacking.
   
 </div>
 
@@ -25,6 +25,7 @@
   <img align="center" alt="oti-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="oti-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="oti-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />  
+ <img align="center" alt="oti-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>
 
 
