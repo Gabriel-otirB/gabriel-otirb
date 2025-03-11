@@ -18,7 +18,7 @@ Minha jornada começou com pequenos projetos utilizando Salesforce CRM, e ao lon
 - 🛠 **Minhas principais tecnologias no Back-end**:  
   - **Node.js**  | **TypeScript** | **JavaScript** | **PHP** | **Laravel**
   - **Java** | **Spring Boot** | **Python** | **MySQL** | **MongoDB**
-  - **Microsoft SQL Server** | **Docker** | **Firebase** | **AWS** | **GCP**  
+  - **Microsoft SQL Server** | **Firebase** | **Docker** | **AWS** | **GCP**  
 - 🌱 **Em constante aprendizado**, buscando evolução contínua como profissional.  
 
 ---
