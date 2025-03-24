@@ -9,18 +9,15 @@ Minha jornada começou com pequenos projetos utilizando Salesforce CRM, e ao lon
 ---
 
 ## 🚀 Sobre mim  
-- 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** em Tambaú, SP.
+- 🎓 **Graduando em Análise e Desenvolvimento de Sistemas**.
 - 🛠 **Minhas principais tecnologias no Front-end**:
   - **React.JS** | **Next.JS** | **jQuery** | **TypeScript** | **JavaScript**
   - **PHP** | **Laravel** | **Bootstrap** | **HTML5** | **CSS3**
- - 🌱 **Sempre buscando aprimorar e evoluir** com cada novo projeto.
- 
-- 🛠 **Minhas principais tecnologias no Back-end**:  
+- 🛠 **Minhas principais tecnologias no Back-end**:
   - **Node.js**  | **TypeScript** | **JavaScript** | **PHP** | **Laravel**
   - **Java** | **Spring Boot** | **Python** | **MySQL** | **MongoDB**
-  - **Microsoft SQL Server** | **Firebase** | **Docker** | **AWS** | **GCP**  
+  - **Microsoft SQL Server** | **Firebase** | **Docker** | **AWS** | **GCP**
 - 🌱 **Em constante aprendizado**, buscando evolução contínua como profissional.  
-
 ---
 
 ## 🛠️ Minhas Ferramentas  
