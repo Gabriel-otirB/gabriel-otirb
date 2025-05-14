@@ -9,7 +9,7 @@ Minha jornada começou com pequenos projetos utilizando Salesforce CRM, e ao lon
 ---
 
 ## 🚀 Sobre mim  
-- 🎓 **Graduando em Análise e Desenvolvimento de Sistemas**.
+- 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**.
 - 🛠 **Minhas principais tecnologias no Front-end**:
   - **React.JS** | **Next.JS** | **jQuery** | **TypeScript** | **JavaScript**
   - **PHP** | **Laravel** | **Bootstrap** | **HTML5** | **CSS3**
